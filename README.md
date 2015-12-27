@@ -1,8 +1,8 @@
 # Super-Steam-Grids
 
-Super Steam Grids is a pack of grid files for Steam or any other use.It is released to the public; aka *OPEN SOURCE*. It will be under the CC-BY-4.0 Creative Common Attribution 4.0 International License (the same one Google uses for their system icons).
+Super Steam Grids is a pack of grid files for Steam or any other use.It is released to the public; aka *OPEN SOURCE*. It will be under the CC-BY-4.0 Creative Common Attribution 4.0 International License.
 
-This includes the PDN files, along with all the appropiate .PNG files that make up the files.
+This includes the PDN files, along with all the appropiate .JPG files that make up the images.
 
 
 #License
@@ -17,4 +17,4 @@ for *any* purpose, even commercially.
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
-We do ask that you atleast mention us when you use these icons, but you don't *have* to (use common sense and ethics).
+I do ask that you at least give credit when using the files.
