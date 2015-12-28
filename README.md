@@ -2,7 +2,7 @@
 
 Super Steam Grids is a pack of grid files for Steam or any other use.It is released to the public; aka *OPEN SOURCE*. It will be under the CC-BY-4.0 Creative Common Attribution 4.0 International License.
 
-This includes the PDN files, along with all the appropiate .JPG files that make up the images.
+This includes JPG files for each, and the appropriate PDN (Paint.net) files that make up the images. 
 
 
 #License
